@@ -1,12 +1,16 @@
 *{
-  color: yellow;
-  font-size: medium;
+  color: red;
+  font-size: large;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-style: normal;
   background-color: black;
   
 }
 
+inner{
+  font-size: small;
+  color: blue;
+}
 output{
   background-color: aliceblue;
 }
